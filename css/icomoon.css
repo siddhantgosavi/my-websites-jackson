@@ -1788,4 +1788,9 @@
 .icon-IcoMoon:before {
   content: "\eb1a";
 }
-
+.icons {
+  padding: 0px 70px;
+}
+.sociallinks{
+  padding: 0px 8px;
+}
