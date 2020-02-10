@@ -931,7 +931,7 @@ body.offcanvas {
   background-position: center center;
   background-repeat: no-repeat;
   position: relative;
-  height: 310px;
+  height: 320px;
   width: 100%;
   display: block;
   margin-bottom: 30px; }
@@ -950,7 +950,9 @@ body.offcanvas {
       padding: 20px;
       display: block;
       position: relative;
-      height: 300px; }
+      height: 300px; 
+      color: #fff;
+      overflow-y: scroll;}
       .project .desc .con .icon {
         position: absolute;
         bottom: 20px;
@@ -969,7 +971,7 @@ body.offcanvas {
             border-radius: 4px; }
         .project .desc .con .icon i {
           font-size: 16px;
-          color: #333333; }
+          color: #333383; }
     .project .desc h3 {
       font-family: "Quicksand", Arial, sans-serif;
       font-size: 16px;
